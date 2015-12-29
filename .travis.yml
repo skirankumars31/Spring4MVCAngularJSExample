@@ -7,3 +7,4 @@ deploy:
   provider: heroku
   api_key:
     secure: "bcb613c5-5de3-492c-a02b-3d1e3dee56e8"
+   app: springmvcangularjsexample
