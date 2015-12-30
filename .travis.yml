@@ -4,7 +4,7 @@ jdk:
   - oraclejdk8
 
 deploy:
-  provider: openshift
-  user: "skirankumars31@gmail.com"
-  password: "Kiran@1234"
-  domain: "skirankumars"
+  provider: heroku
+  api_key:
+    secure: "bcb613c5-5de3-492c-a02b-3d1e3dee56e8"
+  app: springmvcangularjsexample
