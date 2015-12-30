@@ -45,7 +45,6 @@
 
 
 	<build>
-		<pluginManagement>
 			<plugins>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
@@ -81,8 +80,6 @@
 					</executions>
 				</plugin>
 			</plugins>
-		</pluginManagement>
-
 		<finalName>Spring4MVCAngularJSExample</finalName>
 	</build>
 	
